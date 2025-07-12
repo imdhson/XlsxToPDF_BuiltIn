@@ -9,6 +9,8 @@
 
 **[English readme.md](README_EN.MD)**
 
+![screenshot1](screenshot1.png)
+
 Excel XLSX 파일을 PDF로 일괄 변환하는 VBA 매크로 도구입니다. 온라인 변환 툴의 개인정보 유출 우려와 속도 문제를 해결하고, Excel 자체의 공식 PDF 변환 기능을 활용하여 로컬 환경에서 안전하고 빠르게 다중 파일을 처리할 수 있습니다.
 
 ## 개발 배경
