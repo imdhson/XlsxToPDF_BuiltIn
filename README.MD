@@ -4,7 +4,7 @@
 
 [![Download Excel Macro](https://img.shields.io/badge/📥%20Download-Excel%20Macro%20File-brightgreen?style=for-the-badge&logo=microsoft-excel)](xlsx_To_PDF[imdhson].xlsm)
 
-[![Latest Release](https://img.shields.io/badge/📦%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/imdhson/xlsx-to-pdf-converter/releases/latest)
+[![Latest Release](https://img.shields.io/badge/📦%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/imdhson/XlsxToPDF_BuiltIn/releases)
 
 **💾 파일명:** `xlsx to PDF[imdhson].xlsm` • **📊 Excel 매크로 파일** • **🔒 안전한 로컬 변환**
 
