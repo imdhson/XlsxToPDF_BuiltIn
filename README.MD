@@ -1,7 +1,16 @@
 # Excel 일괄 PDF 변환 도구 | xlsx to PDF Batch Converter
 
-![screenshot1](screenshot1.png)
+## 📥 **다운로드**
 
+[![Download Excel Macro](https://img.shields.io/badge/📥%20Download-Excel%20Macro%20File-brightgreen?style=for-the-badge&logo=microsoft-excel)](xlsx_To_PDF[imdhson].xlsm)
+
+[![Latest Release](https://img.shields.io/badge/📦%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/imdhson/xlsx-to-pdf-converter/releases/latest)
+
+**💾 파일명:** `xlsx to PDF[imdhson].xlsm` • **📊 Excel 매크로 파일** • **🔒 안전한 로컬 변환**
+
+---
+
+![screenshot1](screenshot1.png)
 
 ## 소개
 
@@ -22,7 +31,7 @@ Excel XLSX 파일을 PDF로 일괄 변환하는 VBA 매크로 도구입니다. �
 - Windows 운영체제
 
 ### 2. 파일 다운로드
-[`xlsx to PDF[imdhson].xlsm`](xlsx_To_PDF[imdhson].xlsm) 파일을 다운로드합니다.
+위의 **다운로드** 버튼을 클릭하여 [`xlsx to PDF[imdhson].xlsm`](xlsx_To_PDF[imdhson].xlsm) 파일을 다운로드합니다.
 
 ### 3. 매크로 활성화
 Excel에서 파일을 열 때 매크로 실행을 허용해주세요.
@@ -58,7 +67,7 @@ Excel 파일을 열고 **[시작하기]** 셀을 클릭하면 변환 프로세�
 ## 핵심 VBA 코드
 
 ### 메인 변환 함수
-```vba
+```
 Sub Batch_Export_XLSX_to_PDF()
     Dim folderPath As String
     Dim fileName As String
@@ -89,7 +98,7 @@ End Sub
 ```
 
 ### 셀 클릭 이벤트
-```vba
+```
 Private Sub Worksheet_SelectionChange(ByVal Target As Range)
     If Target.Address = "$A$1" Then
         Call Batch_Export_XLSX_to_PDF

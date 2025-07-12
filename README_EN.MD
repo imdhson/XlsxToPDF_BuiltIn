@@ -1,5 +1,15 @@
 # Excel XLSX to PDF Batch Converter
 
+## 📥 **Download**
+
+[![Download Excel Macro](https://img.shields.io/badge/📥%20Download-Excel%20Macro%20File-brightgreen?style=for-the-badge&logo=microsoft-excel)](xlsx_To_PDF[imdhson].xlsm)
+
+[![Latest Release](https://img.shields.io/badge/📦%20Latest-Release-blue?style=for-the-badge&logo=github)](https://github.com/imdhson/xlsx-to-pdf-converter/releases/latest)
+
+**💾 File Name:** `xlsx to PDF[imdhson].xlsm` • **📊 Excel Macro File** • **🔒 Secure Local Conversion**
+
+---
+
 ![screenshot1](screenshot1.png)
 
 ## Introduction
